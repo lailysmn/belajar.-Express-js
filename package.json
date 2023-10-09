@@ -1,0 +1,11 @@
+{
+  "name": "book-store-api",
+  "version": "1.0.0",
+  "description": "Latihan express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "(index.js)"
+  },
+  "author": "",
+  "license": "ISC"
+}
